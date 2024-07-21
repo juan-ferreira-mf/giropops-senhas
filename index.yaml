@@ -3,13 +3,13 @@ entries:
   giropops-senhas:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-07-21T11:46:38.091738-03:00"
+    created: "2024-07-21T11:52:52.176463-03:00"
     description: gerador de senhas
     digest: 4fc4edd1f35fac58425c197be76d761fcee0fe700d134b0b2c5127c88e2053b7
     name: giropops-senhas
     sources:
     - https://github.com/juanferreiramf/giropops-senhas
     urls:
-    - https://github.com/juanferreiramf/giropops-senhas/giropops-senhas-0.1.0.tgz
+    - https://juanferreiramf.github.io/giropops-senhas/giropops-senhas-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-21T11:46:38.090954-03:00"
+generated: "2024-07-21T11:52:52.175744-03:00"
